@@ -1,1 +1,1 @@
-# 30-fays-of-code
+# 30 days of code
